@@ -1,6 +1,6 @@
 # Project running instruction
 
 ## Prerequisits
-* Python interpreter 
+* Python 3.9.13 
 * upgrade pip
-* install streamlit 
+* install streamlit version 1.34.0
