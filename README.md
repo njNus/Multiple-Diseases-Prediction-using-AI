@@ -3,3 +3,4 @@
 ## Prerequisits
 * Python interpreter 
 * upgrade pip
+* install streamlit 
